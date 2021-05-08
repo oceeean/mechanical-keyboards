@@ -1,2 +1,2 @@
-# keyboards
+# Mechanical Keyboards
 custom rectangle
