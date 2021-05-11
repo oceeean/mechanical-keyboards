@@ -3,3 +3,6 @@
 
 ## Gallery
 [Imgur Album](https://imgur.com/gallery/WzdUjwA)
+
+![1](https://i.imgur.com/z43wqls.jpeg)
+![2](https://i.imgur.com/k65NNGG.jpeg)
