@@ -1,7 +1,7 @@
 # Mechanical Keyboard Acrylic Case
 :)
 # Case
-* Alice, Alice PCB with top USB
+* Alice, Alice standard/universal PCB with top USB
 * FakeKL, FakeKL PCB by dyz
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
